@@ -1,0 +1,15 @@
+C:\Users\Anton\C#\Test WEST COAST\West\bin\Debug\net6.0\West.exe
+C:\Users\Anton\C#\Test WEST COAST\West\bin\Debug\net6.0\West.deps.json
+C:\Users\Anton\C#\Test WEST COAST\West\bin\Debug\net6.0\West.runtimeconfig.json
+C:\Users\Anton\C#\Test WEST COAST\West\bin\Debug\net6.0\West.dll
+C:\Users\Anton\C#\Test WEST COAST\West\bin\Debug\net6.0\West.pdb
+C:\Users\Anton\C#\Test WEST COAST\West\obj\Debug\net6.0\West.csproj.AssemblyReference.cache
+C:\Users\Anton\C#\Test WEST COAST\West\obj\Debug\net6.0\West.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anton\C#\Test WEST COAST\West\obj\Debug\net6.0\West.AssemblyInfoInputs.cache
+C:\Users\Anton\C#\Test WEST COAST\West\obj\Debug\net6.0\West.AssemblyInfo.cs
+C:\Users\Anton\C#\Test WEST COAST\West\obj\Debug\net6.0\West.csproj.CoreCompileInputs.cache
+C:\Users\Anton\C#\Test WEST COAST\West\obj\Debug\net6.0\West.dll
+C:\Users\Anton\C#\Test WEST COAST\West\obj\Debug\net6.0\refint\West.dll
+C:\Users\Anton\C#\Test WEST COAST\West\obj\Debug\net6.0\West.pdb
+C:\Users\Anton\C#\Test WEST COAST\West\obj\Debug\net6.0\West.genruntimeconfig.cache
+C:\Users\Anton\C#\Test WEST COAST\West\obj\Debug\net6.0\ref\West.dll
